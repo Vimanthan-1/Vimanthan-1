@@ -6,7 +6,7 @@
 
 🎓 Certificates:
 - Azure Cloud
-- AI in Azure
+- iIntroduction To Gen AI
 
 💻 Tech Stack:
 - C++
